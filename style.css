@@ -101,6 +101,15 @@ body {
     column-gap: 90px;
     justify-content: center;
   }
+  .card2 .rotate {
+    right: -60px;
+  }
+  .card4 .rotate {
+    right: -60px;
+  }
+  .card6 .rotate {
+    right: -60px;
+  }
   .card2,
   .card5 {
     margin-top: 0rem;
@@ -112,6 +121,10 @@ body {
   .card5,
   .card6 {
     margin-top: 50px;
+  }
+  .container {
+    justify-content: flex-start;
+    padding-left: 20px;
   }
 }
 
